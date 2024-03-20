@@ -1,5 +1,10 @@
 /* CSS Variables */
 :root {
+    /* color palette */
+    --color1: #98c884;
+    --color2: #df867e;
+    --color3: #70459b;
+
     /* main UI color */
     --plyr-color-main: darkgray;
     /* audio controls background */
@@ -8,8 +13,14 @@
     --plyr-video-control-color: white;
 }
 
+html {
+    background: linear-gradient(#e66465, #9198e5);
+    height: 100vh;
+}
+
 body {
-    background: gray;
+    background-image: url(./assets/design-bg.png);
+    height: 100vh;
 }
 
 /* Layout */

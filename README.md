@@ -13,4 +13,7 @@
 * [Websites dedicated to movies are an historical archive](https://www.spacejam.com/1996/jam.html). The _Space Jam_ website still works.
 
 ## Citations
-* Your citations go here
+* [Dept of Design on Instagram](https://www.instagram.com/ewu.design/?hl=en)
+* [DESN at Catalyst](https://www.youtube.com/watch?v=xBIOT7hpKeY)
+* [Dept of Design](https://www.ewu.edu/cstem/design/)
+* [Catalyst Building](https://www.mckinstry.com/news/avista-mckinstry-katerra-eastern-washington-university-and-others-to-break-ground-on-catalyst-building-august-8/)
